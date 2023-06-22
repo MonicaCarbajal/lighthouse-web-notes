@@ -5,4 +5,5 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Monica for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Monica](https://github.com/MonicaCarbajal) for the Lighthouse Labs Web Development Bootcamp.
+
